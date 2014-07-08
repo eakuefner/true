@@ -1,2 +1,1 @@
-all:
-	gcc -o true true.c
+all: true
